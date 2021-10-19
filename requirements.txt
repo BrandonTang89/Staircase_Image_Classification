@@ -3,7 +3,6 @@ keras==2.4.3
 Keras-Applications
 Keras-Preprocessing
 matplotlib==3.0.2
-numpy==1.16.0
 opencv-python==4.2.0.32
 scikit-image==0.14.2
 tensorboard
