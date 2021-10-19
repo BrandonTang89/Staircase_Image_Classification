@@ -1,9 +1,9 @@
 # staircase-image-classifier
 A neural network to detect and classify staircases in images.
 
-Try out Inception-Resnetv2 here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrandonTang89/Staircase-Image-Classifier/master?filepath=Stairs_Prediction_jsonnpy.ipynb)
+Try out Inception-Resnetv2 here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrandonTang89/Staircase_Image_Classification/master?filepath=Stairs_Prediction_jsonnpy.ipynb)
 
-Try out MobileNetv2 here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrandonTang89/Staircase-Image-Classifier/master?filepath=Stairs_Prediction_mobilenetv2_h5.ipynb)
+Try out MobileNetv2 here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrandonTang89/Staircase_Image_Classification/master?filepath=Stairs_Prediction_mobilenetv2_h5.ipynb)
 ## Quick Install
 Installing Dependencies (on python 3.6):
 <pre>pip install -r requirements.txt</pre>
